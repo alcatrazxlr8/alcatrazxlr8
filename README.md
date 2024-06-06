@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available on [github.com/alcatrazxlr8](github.com/alcatrazxlr8)
 
-- 📫 How to reach me **saransh1000@gmail.com**
+- 📫 How to reach me **saransh1000@gmail.com** / **saransh.sharma@rutgers.edu**
 
 - 📄 Know about my experiences [through my Resume](https://github.com/alcatrazxlr8/alcatrazxlr8/blob/2598e0df583cd56b02f56c4719d9cf2fb5ed3d81/Saransh_Resume.pdf)
 
