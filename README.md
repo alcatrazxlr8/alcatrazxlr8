@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alcatrazxlr8&label=Profile%20views&color=0e75b6&style=flat" alt="alcatrazxlr8" /> </p>
 
-- 🔭 I’m currently working on **upskilling myself**
+- 🔭 I’m currently working on **upskilling myself** and looking for fulltime software positions
 
 - 🌱 I’m currently learning **DSA & React**
 
