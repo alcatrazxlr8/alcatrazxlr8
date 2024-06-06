@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **saransh1000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XS9fci07CiMJbi0w3eGp6fWoD6r7cvfH/view?usp=sharing](https://drive.google.com/file/d/1XS9fci07CiMJbi0w3eGp6fWoD6r7cvfH/view?usp=sharing)
+- 📄 Know about my experiences [through my Resume](https://github.com/alcatrazxlr8/alcatrazxlr8/blob/2598e0df583cd56b02f56c4719d9cf2fb5ed3d81/Saransh_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
