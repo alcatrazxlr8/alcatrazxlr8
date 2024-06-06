@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA & React**
 
-- 👨‍💻 All of my projects are available on [github.com/alcatrazxlr8](github.com/alcatrazxlr8)
+- 👨‍💻 All of my projects are available on https://www.github.com/alcatrazxlr8
 
 - 📫 How to reach me **saransh1000@gmail.com** / **saransh.sharma@rutgers.edu**
 
