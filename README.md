@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saransh</h1>
-<h3 align="center">A passionate software engineer and dev. I recently graduated from Rutgers, NB with a MS in Computer Science</h3>
+<h3 align="center">A passionate software engineer and dev. I recently graduated from Rutgers (NJ) with a MS in Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alcatrazxlr8&label=Profile%20views&color=0e75b6&style=flat" alt="alcatrazxlr8" /> </p>
 
