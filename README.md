@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **upskilling myself** and looking for fulltime software positions
 
-- 🌱 I’m currently learning **React & Typescript**
+- 🌱 I’m currently building with **React & Typescript** and plan to dive into **Go**
 
 - 👨‍💻 All of my projects are available on https://www.github.com/alcatrazxlr8
 
 - 📫 How to reach me **saransh1000@gmail.com** / **saransh.sharma@rutgers.edu**
 
-- 📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1o7yStEKPeX0okTYGl4JCvpfvPgGr9CsY/view?usp=drive_link)
+- 📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1H8DOQfX7WBlcJFyVWWEvNd-L3PyznCFL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
