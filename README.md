@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **saransh1000@gmail.com** / **saransh.sharma@rutgers.edu**
 
-- 📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1H8DOQfX7WBlcJFyVWWEvNd-L3PyznCFL/view?usp=sharing)
+- 📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1NfKCcgxe1SY8diFSQNafE1CrztYaTnv6/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
