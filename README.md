@@ -23,5 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alcatrazxlr8&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="alcatrazxlr8" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alcatrazxlr8&show_icons=true&theme=synthwave&locale=en" alt="alcatrazxlr8" /></p>
 
