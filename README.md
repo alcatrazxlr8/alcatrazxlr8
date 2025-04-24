@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **upskilling myself** and looking for fulltime software positions
 
-- 🌱 I’m currently building with **React & Typescript** and plan to dive into **Go**
+- 🌱 I’m currently building backends with **FastAPI** & **Python** and plan to dive into **Go**
 
 - 👨‍💻 All of my projects are available on https://www.github.com/alcatrazxlr8
 
