@@ -24,5 +24,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alcatrazxlr8&show_icons=true&locale=en&layout=compact" alt="alcatrazxlr8" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=alcatrazxlr8&theme=dark" alt="GitHub Streak" /></p>
+
+[//]: # (<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=alcatrazxlr8&theme=dark" alt="GitHub Streak" /></p>)
+
+
 
